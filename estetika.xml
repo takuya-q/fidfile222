@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yml_catalog date="2024-06-13 13:00">
+    <shop>
+        <name>«Эстетика»</name>
+        <company>ООО «Эстетика»</company>
+        <url>https://estetikgel.ru/</url>
+        <email>estetikadent11@gmail.com</email>
+        <picture>https://avatars.mds.yandex.net/get-altay/10147638/2a0000018cd3c7fc0e85f944a8599a755831/XXXL</picture>
+        <description>Каталог врачей</description>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Врач</category>
+        </categories>
+
+        <sets>
+            <set id="stomatolog-terapevt">
+                <name>Стоматолог-терапевт</name>
+            </set>
+            <set id="zybnoy vrach">
+                <name>Зубной врач</name>
+            </set>
+            <set id="stomatolog-hirurg">
+                <name>Стоматолог-ортопед-хирург-имплантолог</name>
+            </set>
+            <set id="stomatolog-ortoped">
+                <name>Стоматолог-терапевт</name>
+            </set>
+            <set id="stomatolog-implantolog">
+                <name>Стоматолог-терапевт</name>
+            </set>
+        </sets>
+        <offers>
+            <offer id="vrach1">
+                <name>Петрова Елена Викторовна</name>
+                <url>https://clck.ru/3BEjtn</url>
+                <price from="true">0</price>
+                <oldprice>0</oldprice>
+                <currencyId>RUB</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>stomatolog-hirurg,stomatolog-ortoped,stomatolog-implantolog</set-ids>
+                <picture>https://prodoctorov.ru/media/photo/gelendzhik/doctorimage/802186/695873-802186-petrova_square.jpg</picture>
+                <description>Основные направления профессиональной деятельности: диагностика заболеваний зубо-челюстной системы, атравматичное удаление зубов, имплантация зубов, все виды протезирования зубов.
+                </description>
+                <categoryId>1</categoryId>
+                <param name="Фамилия">Петрова</param>
+                <param name="Имя">Елена</param>
+                <param name="Отчество">Викторовна</param>
+                <param name="Годы опыта">19</param>
+                <param name="Начало карьеры">2005-06-01</param>
+                <param name="Город">г. Красный Луч</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Ссылка на профиль врача">https://clck.ru/3BEjtn</param>
+                <param name="Город клиники">г. Геленджик</param>
+                <param name="Адрес клиники">ул. Прасковеевская, д.11, помещ. 1</param>
+                <param name="Название клиники">«Эстетика»</param>
+                <param name="Возможность записи">true
+                </param>
+                <param name="Телефон для записи">+7(918)-632-33-34</param>
+            </offer>
+            <offer id="vrach2">
+                <name>Антонюк Маргарита Дмитриевна</name>
+                <url>https://clck.ru/3BEmCg</url>
+                <price from="true">0</price>
+                <oldprice>0</oldprice>
+                <currencyId>RUB</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>stomatolog-terapevt</set-ids>
+                <picture>https://prodoctorov.ru/media/photo/gelendzhik/doctorimage/670413/974883-670413-antonyuk_square.jpg</picture>
+                <description>Основные направления деятельности: диагностика и лечение любой сложности заболеваний зубов, профессиональная чистка, лечение кариеса и осложнений, реставрация зубов, отбеливание.
+                </description>
+                <categoryId>1</categoryId>
+                <param name="Фамилия">Антонюк</param>
+                <param name="Имя">Маргарита</param>
+                <param name="Отчество">Дмитриевна</param>
+                <param name="Годы опыта">9</param>
+                <param name="Начало карьеры">2016-06-01</param>
+                <param name="Город">г. Ростоа-на-Дону</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Ссылка на профиль врача">https://clck.ru/3BEmCg</param>
+                <param name="Город клиники">г. Геленджик</param>
+                <param name="Адрес клиники">ул. Прасковеевская, д.11, помещ. 1</param>
+                <param name="Название клиники">«Эстетика»</param>
+                <param name="Возможность записи">true
+                </param>
+                <param name="Телефон для записи">+7(918)-632-33-34</param>
+            </offer>
+            <offer id="vrach3">
+                <name>Быховая Ирина Владимировна</name>
+                <url>https://clck.ru/3BEmvK</url>
+                <price from="true">0</price>
+                <oldprice>0</oldprice>
+                <currencyId>RUB</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>zybnoy vrach</set-ids>
+                <picture>
+                    https://prodoctorov.ru/media/photo/gelendzhik/doctorimage/802297/695951-802297-byhovaya_square.jpg
+                </picture>
+                <description>Ведет прием пациентов с 18 лет. Занимается диагностикой и лечением кариеса и осложнений кариеса, профессиональная гигиена полости рта.
+                </description>
+                <categoryId>1</categoryId>
+                <param name="Фамилия">Быховая</param>
+                <param name="Имя">Ирина</param>
+                <param name="Отчество">Владимировна</param>
+                <param name="Годы опыта">29</param>
+                <param name="Начало карьеры">1994-06-01</param>
+                <param name="Город">г. Белгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Детский врач">false</param>
+                <param name="Ссылка на профиль врача">https://clck.ru/3BEmvK</param>
+                <param name="Город клиники">г. Геленджик</param>
+                <param name="Адрес клиники">ул. Прасковеевская, д.11, помещ. 1</param>
+                <param name="Название клиники">«Эстетика»</param>
+                <param name="Возможность записи">true
+                </param>
+                <param name="Телефон для записи">+7(918)-632-33-34</param>
+            </offer>
+
+        </offers>
+    </shop>
+</yml_catalog>
+
